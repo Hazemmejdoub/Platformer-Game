@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cktx8sui5i4yd"
+path="res://.godot/imported/Samara - Souk (Official Music Video).mp3-3a5e50cf0986e445d9f055a813420048.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/Samara - Souk (Official Music Video).mp3"
+dest_files=["res://.godot/imported/Samara - Souk (Official Music Video).mp3-3a5e50cf0986e445d9f055a813420048.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
